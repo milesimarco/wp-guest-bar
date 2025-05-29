@@ -4,8 +4,8 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: toolbar, guest, admin, bar, login
 Requires at least: 3.3
 Tested up to: 6.9
-Version: 3.0
-Stable tag: 3.0
+Version: 3.0.1
+Stable tag: 3.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -51,12 +51,12 @@ WP Guest Bar is designed to work with most themes. For advanced customization, y
 
 == Changelog ==
 
-= 3.0 - 2025-05-29 =
+= 3.0.1 - 2025-05-29 =
 * [NEW] Added new functions:
     * Add your own logo in the admin bar
     * Add custom links in the admin bar
 * Improved documentation and code structure
-* Updated compatibility for WordPress 6.6
+* Updated compatibility for WordPress 6.9
 
 = 2.3 =
 * Compatibility check
